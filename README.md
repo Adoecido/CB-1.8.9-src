@@ -122,7 +122,7 @@ Nenhuma licença explícita foi incluída neste repositório até o momento. Na 
 
 ## 🙌 Créditos
 - Comunidade de código aberto e bibliotecas utilizadas (consulte `build.gradle`)
-- Agradecimentos aos contribuidores do projeto
+- @Lopesnextgen @Adoecido @Tesseract
 
 ---
 Se você encontrar problemas, abra uma issue com passos claros para reprodução, logs relevantes e detalhes do ambiente (SO, versão do Java, comando de build usado).
